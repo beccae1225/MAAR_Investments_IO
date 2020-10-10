@@ -1,0 +1,313 @@
+,investor_id,name,location,type,most_recent_deal,number_of_deals,portfolio_size,city,state,country,website,industry
+0,12564,Anupam Mittal,Mumbai,angel,2020-05-12,0,0,Mumbai,,IND,angel.co/anupam-mittal,food & beverages
+4,10789,e.Bricks Digital,São Paulo,vc,2015-08-21,0,0,São Paulo,,BRA,ebricksdigital.com.br,food & beverages
+5,231,Carmel Ventures,Herzeliya,vc,2017-09-27,163,0,Herzeliya,,ISR,carmelventures.com,food & beverages
+6,11256,Anand Ladsariya,Mumbai,angel,2016-09-12,0,0,Mumbai,,IND,angel.co/anand-ladsariya,food & beverages
+8,25916,Venture Nursery,Mumbai,accelerator,2016-04-11,0,0,Mumbai,,IND,venturenursery.com,food & beverages
+9,21635,Wavemaker Partners,Los Angeles,vc,2020-07-15,205,163,Santa Monica,CA,USA,wavemaker.vc,food & beverages
+10,4309,Sherry Coutu,Cambridge,angel,2018-06-21,0,0,Cambridge,,GBR,angel.co/scoutu,food & beverages
+11,8820,Keith Willey,London,angel,2013-09-24,0,0,London,,GBR,,food & beverages
+12,16225,India Quotient,Mumbai,vc,2017-12-14,0,0,Mumbai,,IND,indiaquotient.in,food & beverages
+15,1292,Catamount Ventures,Bay Area,vc,2020-05-19,0,0,San Francisco,CA,USA,catamountventures.com,food & beverages
+16,2827,NewSchools Venture Fund,Bay Area,vc,2015-09-10,178,158,Oakland,CA,USA,newschools.org,food & beverages
+18,8503,Deborah Quazzo,Chicago,angel,2018-10-09,0,0,Chicago,IL,USA,angel.co/deborah-quazzo,food & beverages
+21,18017,NTT DoCoMo Ventures,Tokyo,vc,2020-09-02,0,0,Tokyo,,JPN,nttdocomo-v.com,food & beverages
+22,12792,Neil Rimer,Geneva,angel,2006-03-01,0,0,Geneva,,CHE,,food & beverages
+25,24970,Singapore Angel Network,Middlesex,vc,2018-07-26,0,0,Middlesex,,GBR,sgan.sg,food & beverages
+26,53,SV Angel,Bay Area,vc,2020-09-18,815,684,San Francisco,CA,USA,svangel.com,food & beverages
+27,2372,Alex Bard,Bay Area,angel,2016-09-27,0,0,San Francisco,CA,USA,angel.co/alexbard,food & beverages
+29,14616,Bizdom,Detroit,accelerator,2016-06-01,0,0,Detroit,MI,USA,bizdom.com,food & beverages
+35,13505,Y Combinator,Bay Area,accelerator,2020-02-27,2310,1282,Mountain View,CA,USA,ycombinator.com,food & beverages
+1,356,Relay Ventures,Bay Area,vc,2018-06-21,0,0,Menlo Park,CA,USA,relayventures.com,food & beverages
+3,1956,Francisco Partners,Bay Area,vc,2020-08-25,0,0,San Francisco,CA,USA,franciscopartners.com,food & beverages
+7,27,InterWest Partners,Bay Area,vc,2019-11-13,318,200,Menlo Park,CA,USA,interwest.com,food & beverages
+8,6343,Almi Invest,Stockholm ,vc,2017-03-20,0,0,Stockholm ,,SWE,almi.se,food & beverages
+10,8,SK Telecom Ventures,Bay Area,vc,2015-02-11,0,0,Sunnyvale,CA,USA,sktvc.com,food & beverages
+11,527,Social Leverage,Coronado,vc,2020-07-07,0,0,Coronado,CA,USA,socialleveragellc.com,food & beverages
+12,7346,Kibo Ventures,Madrid,vc,2020-07-23,0,0,Madrid,,ESP,kiboventures.com,food & beverages
+13,16732,Aceleratech,São Paulo,accelerator,,0,0,São Paulo,,BRA,aceleratech.com.br,food & beverages
+15,279,Atlas Venture,Boston,vc,2020-09-10,415,236,Cambridge,MA,USA,atlasventure.com,food & beverages
+16,11554,CHV Capital,St. Louis,vc,2015-10-02,0,0,Indianapolis,IN,USA,chvcapital.com,food & beverages
+17,452,DFJ Frontier,Los Angeles,vc,2020-07-30,0,0,Beverly Hills,CA,USA,dfjfrontier.com,food & beverages
+18,2670,Kreos Capital,London,vc,2019-11-11,0,117,London,,GBR,kreoscapital.com,food & beverages
+21,1090,XG Ventures,Bay Area,vc,2018-12-21,0,0,Menlo Park,CA,USA,xg-ventures.com,food & beverages
+23,5390,Craig Shapiro,Bay Area,angel,2011-08-04,0,0,San Francisco,CA,USA,angel.co/cshapiro,food & beverages
+24,6134,Tasso Argyros,New York,angel,2014-12-10,0,0,New York,NY,USA,angel.co/tasso-argyros,food & beverages
+27,135,Felicis Ventures,Bay Area,vc,2020-02-04,388,248,Palo Alto,CA,USA,felicis.com,food & beverages
+30,96,General Catalyst Partners,Boston,vc,2020-06-23,530,321,Cambridge,MA,USA,generalcatalyst.com,food & beverages
+31,166,Trinity Ventures,Bay Area,vc,2020-09-15,340,188,Menlo Park,CA,USA,trinityventures.com,food & beverages
+32,399,3i Group,London,vc,2017-07-05,0,0,London,,GBR,3i.com,food & beverages
+36,16679,Howzat Partners,London,vc,2020-02-05,0,0,London,,GBR,howzatpartners.com,food & beverages
+38,212,DFJ Growth,Bay Area,vc,2020-07-21,0,0,Menlo Park,CA,USA,dfjgrowth.com,food & beverages
+39,9455,OurCrowd,Jerusalem,other,2020-08-05,0,0,Jerusalem,,ISR,ourcrowd.com,food & beverages
+42,20512,Denis Shafranik,London,angel,2014-05-15,0,0,London,,GBR,,food & beverages
+46,591,Geoff Entress,Seattle,angel,2016-06-06,0,0,Seattle,WA,USA,angel.co/entress,food & beverages
+1,84,Google Ventures,Bay Area,vc,2020-08-06,612,395,Mountain View,CA,USA,gv.com,food & beverages
+3,5903,Victory Park Capital,Chicago,vc,2018-04-26,0,0,Chicago,IL,USA,victoryparkcapital.com,food & beverages
+8,375,Draper Associates,Bay Area,vc,2020-07-15,0,0,San Mateo,CA,USA,drapervc.com,food & beverages
+16,2517,Seth Berman,Los Angeles,angel,2014-12-10,0,0,Los Angeles,CA,USA,angel.co/seth-berman,food & beverages
+21,16612,Apax Partners,New York,vc,2018-09-07,0,0,New York,NY,USA,apax.com,food & beverages
+22,969,Bee Partners,Bay Area,vc,2020-05-04,0,0,San Francisco,CA,USA,beepartners.vc,food & beverages
+24,18120,Nextech Invest,Zürich,vc,2020-09-23,0,0,Zürich,,CHE,nextechinvest.com,food & beverages
+25,1033,Lerer Ventures,New York,vc,2018-01-08,0,0,New York,NY,USA,lererventures.com,food & beverages
+28,3863,Boston Seed Capital,Boston,vc,2020-07-23,0,0,Westwood,MA,USA,bostonseed.com,food & beverages
+29,19851,Highland Capital Management,Dallas,pe,2020-09-09,0,0,Dallas,TX,USA,hcmlp.com,food & beverages
+34,1778,Chris Dixon,New York,angel,2015-07-14,0,0,New York,NY,USA,angel.co/cdixon,food & beverages
+37,16218,Founders Den,Bay Area,accelerator,2013-06-01,0,0,San Francisco,CA,USA,foundersden.com,food & beverages
+42,3116,Israel Cleantech Ventures,Tel Aviv,vc,2017-12-13,0,0,Tel Aviv,,ISR,icv.vc,food & beverages
+47,3166,Prospect Venture Partners,Bay Area,vc,2016-09-27,0,0,Palo Alto,CA,USA,prospectventures.com,food & beverages
+48,2101,QiMing Venture Partners,Shanghai,vc,2020-09-10,0,0,Shanghai,,CHN,qimingventures.com,food & beverages
+49,7966,John Hime,Austin,angel,2012-07-18,0,0,Austin,TX,USA,angel.co/johnhime,food & beverages
+2,539,Mousse Partners,New York,vc,2020-07-10,0,0,New York,NY,USA,,food & beverages
+4,666,Credit Suisse,Zurich,other,2020-06-18,0,0,Zurich,,CHE,credit-suisse.com,food & beverages
+7,24069,H. Barton Asset Management,Bay Area,vc,2017-12-05,0,0,San Francisco,CA,USA,bartonam.com,food & beverages
+8,13670,H-FARM Ventures,Roncade,vc,2018-01-24,0,0,Roncade,,ITA,h-farmventures.com,food & beverages
+10,180,Canaan Partners,Bay Area,vc,2018-09-11,403,221,Menlo Park,CA,USA,canaan.com,food & beverages
+14,1184,MK Capital,Chicago,vc,2020-02-11,0,0,Northbrook,IL,USA,mkcapital.com,food & beverages
+18,1761,Ascent Venture Partners,Boston,vc,2018-04-12,0,0,Boston,MA,USA,ascentvp.com,food & beverages
+19,5030,IP Group Plc,London,vc,2018-12-03,0,0,London,,GBR,ipgroupplc.com,food & beverages
+20,2257,Morningside Group,Shanghai,vc,2020-03-03,165,101,Shanghai,,CHN,morningside.com,food & beverages
+21,21572,Indicator Ventures,Boston,vc,2017-11-06,0,0,Boston,MA,USA,indicatorventures.com,food & beverages
+22,7877,Portland Seed Fund,Portland,vc,2020-08-04,0,0,Portland,OR,USA,portlandseedfund.com,food & beverages
+24,116,Baseline Ventures,Bay Area,vc,2020-07-20,182,113,San Francisco,CA,USA,baselinev.com,food & beverages
+26,604,Ventech,Paris,vc,2020-04-07,0,0,Paris,,FRA,ventech.fr,food & beverages
+27,6189,Vitaly Rubstein,Zurich,angel,2013-11-15,0,0,Zurich,,CHE,angel.co/vitaly-rubstein,food & beverages
+29,9025,Robert Smith,Cincinnati,angel,2017-03-21,0,0,Cincinnati,OH,USA,,food & beverages
+33,21692,Rubicon Venture Capital,Bay Area,vc,2018-08-27,0,0,San Francisco,CA,USA,rubicon.vc,food & beverages
+34,23768,Wareness.io,New York,strategic,2015-04-16,0,0,New York,NY,USA,wareness.io,food & beverages
+38,24759,CITIC Securities,Shenzhen,vc,2020-06-15,0,0,Shenzhen,,CHN,cs.ecitic.com,food & beverages
+39,6944,StartupChile,Santiago,accelerator,2016-04-29,399,352,Santiago,,CHL,startupchile.org,food & beverages
+43,21673,PV Ventures,Colorado Springs,vc,2018-09-10,0,0,Colorado Springs,CO,USA,pvventuresllc.com,food & beverages
+46,34,Technology Crossover Ventures,Bay Area,vc,2018-12-04,169,147,Palo Alto,CA,USA,tcv.com,food & beverages
+47,907,Revolution LLC,Washington D.C.,other,2017-08-30,0,0,Washington D.C.,DC,USA,revolution.com,food & beverages
+48,3279,Rho Ventures,New York,vc,2020-08-04,0,0,New York,NY,USA,rho.com,food & beverages
+49,6901,Romulus Capital,Boston,vc,2020-07-07,0,0,Cambridge,MA,USA,romuluscap.com,food & beverages
+0,20846,Galvanize Ventures,Milwaukee,vc,2017-08-08,0,0,Denver,CO,USA,galvanize.com,food & beverages
+1,16030,Flint Capital,Moscow,vc,2020-09-15,0,0,Moscow,,RUS,flintcap.com,food & beverages
+6,11819,YJ Capital,Tokyo,vc,2020-08-10,0,0,Tokyo,,JPN,yj-capital.co.jp,food & beverages
+11,13029,Rally Ventures (formerly Icon Venture Partners),Bay Area,vc,2020-03-11,0,0,Menlo Park,CA,USA,rallyventures.com,food & beverages
+13,8705,Benjamin Ling,Bay Area,angel,2015-10-14,0,0,San Francisco,CA,USA,angel.co/bling0,food & beverages
+15,20219,Sheel Tyle,Bay Area,angel,2013-06-06,0,0,Menlo Park,CA,USA,,food & beverages
+18,17362,Techstars Ventures,Boulder,vc,2020-09-15,361,267,Boulder ,CO,USA,techstars.com,food & beverages
+19,17444,Streamlined Ventures,Bay Area,vc,2020-05-07,0,0,San Francisco,CA,USA,streamlinedventures.com,food & beverages
+20,440,Oak Investment Partners,Norwalk,vc,2018-06-04,251,148,Norwalk,CT,USA,oakvc.com,food & beverages
+22,1622,OMERS Ventures,Toronto,vc,2017-11-07,0,0,Toronto,CAN-ON,CAN,omersventures.com,food & beverages
+23,21109,Toba Capital,Bay Area,vc,2020-09-03,0,0,San Francisco,CA,USA,tobacapital.com,food & beverages
+25,7029,Chipper Boulas,Paris,angel,2015-03-15,0,0,Paris,,FRA,,food & beverages
+27,8351,Richard Muirhead,London,angel,2015-03-15,0,0,London,,GBR,,food & beverages
+29,12545,Square Peg Capital,Melbourne,vc,2020-07-27,0,0,Melbourne,,AUS,squarepegcap.com,food & beverages
+30,15816,Blackbird Ventures,Sydney,vc,2020-07-21,0,0,Sydney,,AUS,blackbird.vc,food & beverages
+33,2031,AlphaLab,Pittsburgh,accelerator,2016-01-25,0,0,Pittsburgh,PA,USA,alphalab.org,food & beverages
+36,1951,Yaron Carni,Tel Aviv,angel,2009-01-01,0,0,Tel Aviv,,ISR,,food & beverages
+37,15664,TPG Capital,Austin,vc,2020-06-09,191,179,Austin,TX,USA,tpg.com,food & beverages
+42,1641,Fabrice Grinda,New York,angel,2020-02-17,0,0,New York,NY,USA,angel.co/fabrice,food & beverages
+43,6862,Innovacorp,Halifax,vc,2018-02-07,0,0,Halifax,CAN-NS,CAN,innovacorp.ca,food & beverages
+44,15599,Startup Sauna,Espoo,accelerator,2013-06-18,0,0,Espoo,,FIN,startupsauna.com,food & beverages
+46,14147,Bill & Melinda Gates Foundation,Seattle,vc,2018-12-24,0,0,Seattle,WA,USA,gatesfoundation.org,food & beverages
+49,7156,Blume Ventures,Mumbai,vc,2020-09-23,207,141,Mumbai,,IND,blumeventures.com,food & beverages
+8,4955,Joanne Wilson,New York,angel,2017-04-12,0,0,New York,NY,USA,angel.co/thegothamgal,food & beverages
+9,21717,Gotham Gal Ventures,New York,vc,2015-10-20,0,0,New York,NY,USA,gothamgal.com,food & beverages
+11,10746,Howard Marks,Los Angeles,angel,2014-04-17,0,0,Los Angeles,CA,USA,angel.co/howard-marks,food & beverages
+13,16251,DGF Investimentos,São Paulo,vc,2015-07-07,0,0,São Paulo,,BRA,dgf.com.br,food & beverages
+20,9506,Sunil Kalra,New Delhi,angel,2019-11-19,0,0,New Delhi,,IND,,food & beverages
+33,438,Pejman Nozad,Bay Area,angel,2019-11-07,0,0,Menlo Park,CA,USA,angel.co/pejmannnozad,food & beverages
+34,3813,Start Fund,Bay Area,vc,2014-06-24,0,0,San Francisco,CA,USA,startfund.nl,food & beverages
+35,11504,Kris Duggan,Bay Area,angel,2013-10-03,0,0,Palo Alto,CA,USA,,food & beverages
+36,19072,CapitalG,Mountain View,vc,2017-10-19,0,0,Mountain View,CA,USA,capitalg.com,food & beverages
+38,15,Genesis Partners,Herzliya,vc,2019-01-07,0,0,Herzliya Pituach,,ISR,genesispartners.com,food & beverages
+40,15277,CircleUp,Bay Area,other,2018-05-15,0,0,San Francisco,CA,USA,circleup.com,food & beverages
+42,10,Longworth Venture Partners,Boston,vc,2018-12-31,0,0,Waltham,MA,USA,longworth.com,food & beverages
+43,4169,David Axmark,London,angel,2014-09-04,0,0,London,,GBR,angel.co/david-axmark,food & beverages
+46,18168,State of Wisconsin Investment Board,Cleveland,vc,2020-06-08,0,0,Madison,WI,USA,swib.state.wi.us,food & beverages
+47,609,VantagePoint Capital Partners,Bay Area,vc,2019-01-03,178,118,San Bruno,CA,USA,vpcp.com,food & beverages
+49,18613,Augment Ventures,Detroit,vc,2017-02-28,0,0,Ann Arbor,MI,USA,augmentventures.com,food & beverages
+3,623,Granite Ventures,Bay Area,vc,2020-05-28,0,0,San Francisco,CA,USA,granitevc.com,food & beverages
+5,77,Sigma Partners,Bay Area,vc,2018-12-13,276,135,Danville,CA,USA,sigmapartners.com,food & beverages
+11,2233,Creathor Venture,Bad Homburg,vc,2018-01-31,0,0,Bad Homburg,,DEU,creathor.de,food & beverages
+12,18985,Alessandro Piol,New York,angel,2014-03-01,0,0,New York,NY,USA,,food & beverages
+14,2613,Jeff Weiner,New York,angel,2020-07-14,0,0,New York,NY,USA,angel.co/jeff-weiner-3,food & beverages
+15,8274,Scott Cook,Atlanta,angel,2020-03-10,0,0,Atlanta,GA,USA,angel.co/scott-cook,food & beverages
+20,7872,Todd Warren,Seattle,angel,2012-10-01,0,0,Seattle,WA,USA,angel.co/todd-warren,food & beverages
+23,2512,Scott Belsky,New York,angel,2020-09-22,0,0,New York,NY,USA,angel.co/joe-lonsdale,food & beverages
+28,21781,Poalim Capital Markets,Tel Aviv,vc,2020-06-23,0,0,Tel Aviv,,ISR,poalimcm.com,food & beverages
+29,1982,Clave Mayor,Pamplona,other,2013-12-02,0,0,Pamplona,,ESP,clavemayor.com,food & beverages
+31,8046,Amol Sarva,New York,angel,2016-01-16,0,0,New York,NY,USA,angel.co/amol,food & beverages
+32,12413,Jeffrey Wald,New York,angel,2014-07-02,0,0,New York,NY,USA,,food & beverages
+38,13079,United Ventures,Milan,vc,2020-07-27,0,0,Milan,,ITA,unitedventures.it,food & beverages
+41,1665,Radical Investments,Dallas,vc,2018-06-05,0,0,Dallas,TX,USA,radicalinvestments.in,food & beverages
+20,2916,OrbiMed Advisors,New York,vc,2020-09-23,226,155,New York,NY,USA,orbimed.com,food & beverages
+21,10070,LionBird,Tel Aviv,vc,2020-03-12,0,0,Tel Aviv,,ISR,lionbird.com,food & beverages
+23,17843,Wearable World Labs,Bay Area,accelerator,2014-08-01,0,0,San Francisco,CA,USA,wearableworld.co,food & beverages
+24,6444,NVM Private Equity,Newcastle Upon Tyne,pe,2018-12-28,0,0,Newcastle Upon Tyne,,GBR,nvm.co.uk,food & beverages
+31,8349,Vista Equity Partners,Austin,vc,2018-11-29,0,0,Austin,TX,USA,vistaequitypartners.com,food & beverages
+35,11143,Telefonica Ventures,Bay Area,vc,2015-12-15,0,0,Mountain View,CA,USA,telefonicaventures.com,food & beverages
+36,16129,Samsung,Tun,strategic,2018-12-14,0,0,Tun,,SWE,samsung.com,food & beverages
+38,12300,Aryo Ariotedjo,Jakarta,angel,2013-04-01,0,0,Jakarta,,IDN,,food & beverages
+39,457,Rose Tech Ventures,New York,vc,2015-10-08,0,0,New York,NY,USA,rose.vc,food & beverages
+40,22979,Roadmap Capital,Toronto,vc,2016-04-21,0,0,Toronto,CAN-ON,CAN,roadmapcapitalinc.com,food & beverages
+6,286,Split Rock Partners,Eden Prarie,vc,2017-11-14,0,0,Eden Prarie,MN,USA,splitrock.com,food & beverages
+12,825,Merus Capital,Bay Area,vc,2020-02-13,0,0,Palo Alto,CA,USA,meruscap.com,food & beverages
+13,2271,Silverton Partners,Austin,vc,2020-07-23,0,0,Austin,TX,USA,silvertonpartners.com,food & beverages
+14,2719,Capital Factory,Austin,vc,2020-05-06,0,0,Austin,TX,USA,capitalfactory.com,food & beverages
+16,205,Spark Capital,Boston,vc,2020-09-28,361,215,Boston,MA,USA,sparkcapital.com,food & beverages
+17,983,Valhalla Partners,Vienna,vc,2018-06-06,0,0,Vienna,VA,USA,valhallapartners.com,food & beverages
+18,18221,Chrysalix SET  ,Amsterdam,vc,2014-12-02,0,0,Amsterdam,,NLD,chrysalixset.com,food & beverages
+20,3589,Asset Management Ventures (AMV),Bay Area,vc,2020-09-11,0,0,Palo Alto,CA,USA,assetman.com,food & beverages
+21,2283,ABS Capital Partners,Washington D.C.,vc,2020-02-25,0,0,Baltimore,MD,USA,abscapital.com,food & beverages
+22,23509,Matter.VC,Bay Area,vc,2017-02-15,0,0,San Francisco,CA,USA,matter.vc,food & beverages
+23,9102,MuckerLab,Los Angeles,accelerator,2015-11-30,0,0,Santa Monica,CA,USA,muckerlab.com,food & beverages
+26,1881,DBL Investors,Bay Area,vc,2017-10-06,0,0,San Francisco,CA,USA,dblinvestors.com,food & beverages
+27,3476,Delphi Ventures,Bay Area,vc,2019-01-09,0,0,Menlo Park,CA,USA,delphiventures.com,food & beverages
+28,2012,Prime Ventures,Amsterdam,vc,2020-03-03,0,0,Amsterdam,,NLD,primeventures.com,food & beverages
+29,14286,Rocket Internet,Berlin,strategic,2020-07-16,0,0,Berlin,,DEU,rocket-internet.com,food & beverages
+32,10450,MOVIDA JAPAN,Shibuya-ku,accelerator,2012-04-05,0,0,Shibuya-ku,,JPN,movidainc.com,food & beverages
+36,1588,Mumbai Angels,Mumbai,other,2018-09-19,0,0,Mumbai,,IND,mumbaiangels.com,food & beverages
+40,1785,Georgian Partners,Toronto,vc,2017-12-21,0,0,Toronto,CAN-ON,CAN,georgianpartners.com,food & beverages
+43,584,Four Rivers Group,Bay Area,vc,2018-05-21,0,0,San Francisco,CA,USA,fourriversgroup.com,food & beverages
+0,5395,Hyde Park Venture Partners,Chicago,vc,2020-10-02,0,0,Chicago,IL,USA,hydeparkvp.com,food & beverages
+5,10328,Suleman Ali,Bay Area,angel,2014-07-01,0,0,San Francisco,CA,USA,,food & beverages
+7,8281,BLH Venture Partners,Atlanta,vc,2017-03-20,0,0,Atlanta,GA,USA,blhventures.com,food & beverages
+8,5061,Cycle Capital,Montreal,vc,2017-07-24,0,0,Montreal,CAN-QC,CAN,cyclecapital.com,food & beverages
+9,2384,Saeed Amidi,Bay Area,angel,2015-11-22,0,0,Sunnyvale,CA,USA,angel.co/saeed-amidi,food & beverages
+16,616,Origin Ventures,Chicago,vc,2020-09-24,0,0,Northbrook,IL,USA,originventures.com,food & beverages
+18,24627,Ryan Weber,Kansas City,angel,2014-11-10,0,0,Kansas City,MO,USA,,food & beverages
+19,26306,Mergelane,Boulder,accelerator,2017-03-09,0,0,Boulder,CO,USA,mergelane.com,food & beverages
+22,14104,Digital Magics,Milan,angel,2018-06-14,0,0,Milan,,ITA,angel.co/digital-magics-1,food & beverages
+26,2067,Oleg Tscheltzoff,London,angel,2016-10-11,0,0,London,,GBR,angel.co/olichoun,food & beverages
+29,5984,Leopard Rock Capital,London,vc,2014-08-12,0,0,London,,GBR,leopardrockcapital.com,food & beverages
+30,7524,The Brandery,Cincinnati,accelerator,2015-08-01,0,0,Cincinnati,OH,USA,brandery.org,food & beverages
+33,10138,Samurai Incubate,Tokyo,vc,2020-07-01,0,0,Tokyo,,JPN,samurai-incubate.asia,food & beverages
+37,5117,Hudson Bay Capital Management,New York,vc,2020-04-11,0,0,New York,NY,USA,hudsonbaycapital.com,food & beverages
+38,5129,Perceptive Advisors,New York,vc,2020-09-14,0,0,New York,NY,USA,perceptivelife.com,food & beverages
+41,1456,ONSET Ventures,Bay Area,vc,2016-01-28,0,0,Menlo Park,CA,USA,onset.com,food & beverages
+43,1843,Dave Morgan,New York,angel,2015-02-18,0,0,New York,NY,USA,angel.co/davemorgannyc,food & beverages
+45,262,Trident Capital,Bay Area,vc,2017-12-06,174,101,Palo Alto,CA,USA,tridentcap.com,food & beverages
+46,224,Eden Ventures,London,vc,2016-01-28,0,0,London,,GBR,edenventures.co.uk,food & beverages
+49,313,T-Venture,Bonn,vc,2019-01-07,0,0,Bonn,,DEU,t-venture.com,food & beverages
+4,16566,Alex Franz,Bay Area,angel,2013-03-01,0,0,Palo Alto,CA,USA,,food & beverages
+7,1038,TomorrowVentures,Bay Area,vc,2016-09-29,0,0,Palo Alto,CA,USA,tomorrowvc.com,food & beverages
+8,11225,Jay Jamison,Bay Area,angel,2015-06-10,0,0,Menlo Park,CA,USA,,food & beverages
+9,1836,Verizon Ventures,New York,vc,2018-12-12,0,0,Basking Ridge,NJ,USA,verizonventures.com,food & beverages
+17,2086,David Shen,Bay Area,angel,2018-03-27,0,0,Palo Alto,CA,USA,angel.co/dshen,food & beverages
+18,8731,Joshua Auerbach,New York,angel,2011-07-05,0,0,New York,NY,USA,,food & beverages
+20,22215,PTV Healthcare Capital,Austin,vc,2018-01-08,0,0,Austin,TX,USA,ptvhc.com,food & beverages
+26,1343,Keith Rabois,Bay Area,angel,2020-05-09,0,0,San Francisco,CA,USA,angel.co/rabois,food & beverages
+31,887,Info Edge,New Delhi,strategic,2019-10-04,0,0,New Delhi,,IND,infoedge.in,food & beverages
+36,9633,Kyle Porter,Atlanta,angel,2011-09-12,0,0,Atlanta,GA,USA,,food & beverages
+40,10722,Linseed Capital,Usa,vc,2015-04-27,0,0,Usa,,JPN,linseedcapital.com,food & beverages
+49,3298,I2A Fund,Chicago,vc,2016-06-07,0,0,Chicago,IL,USA,i2afund.com,food & beverages
+0,3382,K5 Ventures,Los Angeles,vc,2016-03-28,0,0,Newport Beach,CA,USA,k5ventures.com,food & beverages
+6,24665,RoundGlass Partners,Seattle,vc,2017-07-28,0,0,Bellevue,WA,USA,round.glass,food & beverages
+13,630,Michael Birch,Bay Area,angel,2020-06-09,0,0,San Francisco,CA,USA,angel.co/mickbirch,food & beverages
+17,13567,Advance Publications,New York,strategic,2016-07-27,0,0,Staten Island,NY,USA,advance.net,food & beverages
+18,10171,Matt Douglas,Boston,angel,2012-03-28,0,0,Boston,MA,USA,,food & beverages
+19,15568,Coyote Ridge Ventures,Bay Area,vc,2015-04-23,0,0,San Francisco,CA,USA,coyoteridgevc.com,food & beverages
+24,5631,Redmile Group,Bay Area,vc,2020-09-14,0,0,San Francisco,CA,USA,redmilegroup.com,food & beverages
+25,10311,Decheng Capital,Shanghai,vc,2020-07-28,0,0,Shanghai,,CHN,decheng.com,food & beverages
+27,20699,Deerfield Management Company,New York,vc,2020-07-07,0,0,New York,NY,USA,deerfield.com,food & beverages
+29,9400,Michael Kinsbergen,Amsterdam,angel,2013-01-17,0,0,Amsterdam,,NLD,angel.co/mkinsbergen,food & beverages
+30,3027,EnerTech Capital,Conshohocken,vc,2017-09-18,0,0,Conshohocken,PA,USA,enertechcapital.com,food & beverages
+31,11826,Chrysalix EVC,Vancouver,vc,2020-09-04,0,0,Vancouver,CAN-BC,CAN,chrysalixevc.com,food & beverages
+32,933,Highway 12 Ventures,Boise,vc,2015-03-24,0,0,Boise,ID,USA,highway12ventures.com,food & beverages
+33,1071,Peter Bordes,New York,angel,2011-12-20,0,0,New York,NY,USA,angel.co/peter-bordes,food & beverages
+34,20074,Krishnan Ganesh,Bangalore,angel,2018-04-06,0,0,Bangalore,,IND,,food & beverages
+38,6603,Thibaud Elziere,Brussels,angel,2017-07-11,0,0,Brussels,,BEL,angel.co/tiboel,food & beverages
+39,16193,Denis Jung,Berlin,angel,2013-07-01,0,0,Berlin,,DEU,,food & beverages
+40,13125,Mirae Asset Venture Investment,Seongnam,vc,2020-04-28,0,0,Seongnam,,KOR,,food & beverages
+46,2783,NYC Seed,New York,vc,2014-09-05,0,0,Brooklyn,NY,USA,nycseed.com,food & beverages
+47,5410,Expansion Venture Capital,New York,vc,2018-01-10,0,0,New York,NY,USA,expansionvc.com,food & beverages
+49,1362,Jason Calacanis,Bay Area,angel,2020-05-20,0,0,San Francisco,CA,USA,angel.co/jason,food & beverages
+5,5232,Joshua Kushner,New York,angel,2019-12-18,0,0,New York,NY,USA,angel.co/joshuakushner,food & beverages
+7,464,Chris Sacca,Sacramento,angel,2016-05-02,0,0,Truckee,CA,USA,angel.co/sacca,food & beverages
+8,7668,Evan Williams,Bay Area,angel,2016-10-20,0,0,San Francisco,CA,USA,angel.co/ev,food & beverages
+10,10246,Peter Kirwan,Bay Area,angel,2012-01-10,0,0,San Francisco,CA,USA,,food & beverages
+14,8534,AMD Ventures,Austin,strategic,2017-08-22,0,0,Austin,TX,USA,amd.com,food & beverages
+16,12456,Jason Billingsley,Vancouver,angel,2012-08-23,0,0,Vancouver,CAN-BC,CAN,,food & beverages
+17,2733,Boston Capital Ventures,Boston,vc,2012-10-15,0,0,Boston,MA,USA,bcv.com,food & beverages
+18,200,Vulcan Capital,Seattle,vc,2020-09-30,151,112,Seattle,WA,USA,capital.vulcan.com,food & beverages
+23,4037,Navitas Capital,Alphen Aan Den Rijn,vc,2020-09-10,0,0,Alphen Aan Den Rijn,,NLD,navitascapital.nl,food & beverages
+29,15013,ZhenFund,Beijing,vc,2020-07-20,0,0,Beijing,,CHN,zhenfund.com,food & beverages
+30,2120,Point Nine Capital,Berlin,vc,2020-09-07,165,113,Berlin,,DEU,pointninecap.com,food & beverages
+31,3452,Dawn Capital,London,vc,2020-07-23,0,0,London,,GBR,dawncapital.com,food & beverages
+38,849,New World Ventures,USA,vc,2012-12-13,0,0,Chicago,IL,USA,pritzkergroup.com,food & beverages
+43,18978,Boyu Capital,Hong Kong,vc,2020-07-20,0,0,Hong Kong,,CHN,boyucapital.com,food & beverages
+44,1812,IDEA Fund Partners,Raleigh,vc,2018-10-18,0,0,Durham,NC,USA,ideafundpartners.com,food & beverages
+45,5097,Global Brain Corporation,Tokyo,vc,2020-07-21,0,0,Tokyo,,JPN,globalbrains.co.jp,food & beverages
+46,13428,Project A Ventures,Berlin,vc,2020-08-23,0,0,Berlin,,DEU,project-a.com,food & beverages
+2,1115,Jason Hirschhorn,New York,angel,2012-12-01,0,0,New York,NY,USA,angel.co/jasonhirschhorn,food & beverages
+3,1069,Christoph Janz,Bay Area,angel,2017-04-05,0,0,San Francisco,CA,USA,angel.co/chrija,food & beverages
+5,4215,Fountain Healthcare Partners,Dublin,vc,2018-02-15,0,0,Dublin,,IRL,fh-partners.com,food & beverages
+8,13598,Deutsche Telekom,Göttingen,strategic,2020-07-28,0,0,Göttingen,,DEU,telekom.de,food & beverages
+9,337,Sofinnova Ventures,Bay Area,vc,2019-12-17,203,132,Menlo Park,CA,USA,sofinnova.com,food & beverages
+25,2409,Chamath Palihapitiya,Bay Area,angel,2015-12-03,0,0,Palo Alto,CA,USA,angel.co/chamath-palihapitiya,food & beverages
+26,2529,Mark Suster,Los Angeles,angel,2015-04-07,0,0,Los Angeles,CA,USA,angel.co/msuster,food & beverages
+28,91,Palomar Ventures,Los Angeles,vc,2013-07-08,0,0,Santa Monica,CA,USA,palomarventures.com,food & beverages
+43,19717,Ilya Sukhar,Bay Area,angel,2016-08-31,0,0,San Francisco,CA,USA,angel.co/ilya-sukhar,food & beverages
+46,10924,Frontline Ventures,Dublin,vc,2020-07-22,0,0,Dublin,,IRL,frontline.vc,food & beverages
+0,5023,BEST Funds,Toronto,vc,2015-08-01,0,0,Toronto,CAN-ON,CAN,bestfunds.ca,food & beverages
+3,3433,Brian Goffman,Seattle,angel,2008-10-10,0,0,Seattle,WA,USA,,food & beverages
+4,3438,Mark Wachen,New York,angel,2014-12-22,0,0,New York,NY,USA,angel.co/markwachen,food & beverages
+12,1968,Discovery Capital,Vancouver,vc,2019-11-25,0,0,Vancouver,CAN-BC,CAN,discoverycapital.com,food & beverages
+15,3647,Partners Innovation Fund,Boston,vc,2020-04-27,0,0,Boston,MA,USA,,food & beverages
+18,724,Paladin Capital Group,Washington D.C.,vc,2020-08-04,0,0,Washington D.C.,DC,USA,paladincapgroup.com,food & beverages
+19,3313,MMC Ventures,London,vc,2020-06-22,0,0,London,,GBR,mmcventures.com,food & beverages
+36,318,Advent Venture Partners,London,vc,2016-09-29,0,0,London,,GBR,adventventures.com,food & beverages
+47,2593,Razor's Edge Ventures,Herndon,vc,2020-07-14,0,0,Herndon,VA,USA,razorsvc.com,food & beverages
+49,7721,SK Ventures,San Diego,vc,2020-04-20,0,0,La Jolla,CA,USA,skvcap.com,food & beverages
+1,4676,ARC Financial,Calgary,vc,2011-05-04,0,0,Calgary,CAN-AB,CAN,arcfinancial.com,food & beverages
+2,3628,KfW Bankengruppe,Frankfurt Am Main,vc,2017-10-04,0,0,Frankfurt Am Main,,DEU,kfw.de,food & beverages
+15,15789,Sozo Ventures,Bay Area,vc,2020-07-28,0,0,San Francisco,CA,USA,,food & beverages
+16,16960,Bryan Goldberg,New York,angel,2017-10-13,0,0,New York,NY,USA,,food & beverages
+27,2649,Venture Investors,Cleveland,vc,2018-01-09,0,0,Madison,WI,USA,ventureinvestors.com,food & beverages
+30,8964,Druid BioVentures,Philadelphia,vc,2014-12-03,0,0,Philadelphia,PA,USA,druidbio.com,food & beverages
+31,17076,Sabby Capital,New York,vc,2017-04-28,0,0,Saddle River,NJ,USA,,food & beverages
+32,17747,EcoR1 Capital,Bay Area,vc,2020-09-23,0,0,San Francisco,CA,USA,ecor1cap.com,food & beverages
+35,12468,Jay Calvert,Los Angeles,angel,2012-02-01,0,0,Los Angeles,CA,USA,,food & beverages
+36,2714,Harbert Management Corporation,Birmingham,vc,2018-02-26,0,0,Birmingham,AL,USA,harbert.net,food & beverages
+37,154,Ron Zuckerman,Los Angeles,angel,2018-06-27,0,0,Los Angeles,CA,USA,angel.co/ron-zuckerman,food & beverages
+0,20346,Archer Gray,New York,angel,2016-07-13,0,0,New York,NY,USA,,food & beverages
+1,3541,Gamma Capital Partners,Vienna,vc,2018-02-01,0,0,Vienna,,AUT,gamma-capital.com,food & beverages
+2,12482,Justin Sanger,Milwaukee,angel,2012-10-19,0,0,Denver,CO,USA,,food & beverages
+5,3630,XSeed Capital,Bay Area,vc,2020-05-12,0,0,Portola Valley,CA,USA,xseedcap.com,food & beverages
+6,10412,Bryan Menell,Austin,angel,2012-11-18,0,0,Austin,TX,USA,,food & beverages
+7,5270,Chicago Growth Partners,Chicago,vc,2015-12-01,0,0,Chicago,IL,USA,cgp.com,food & beverages
+8,21933,Mosaic Capital Partners,Toronto,vc,2014-10-07,0,0,Toronto,CAN-ON,CAN,mosaicvp.com,food & beverages
+11,142,Clearstone Venture Partners,Los Angeles,vc,2016-01-19,0,0,Santa Monica,CA,USA,clearstone.com,food & beverages
+18,24949,Abingdon Capital,McLean,vc,2015-04-16,0,0,McLean,VA,USA,abingdoncapital.com,food & beverages
+23,1759,Tallwood Venture Capital,Bay Area,vc,2014-11-12,0,0,Menlo Park,CA,USA,tallwoodvc.com,food & beverages
+26,902,FF Angel LLC,Bay Area,vc,2017-10-06,0,0,San Francisco,CA,USA,,food & beverages
+34,24608,Simul Investments,Los Angeles,vc,2014-11-07,0,0,Sherman Oaks,CA,USA,,food & beverages
+41,1583,James Joaquin,Bay Area,angel,2014-09-17,0,0,San Francisco,CA,USA,angel.co/james-joaquin,food & beverages
+42,20795,Blockchain Capital,Bay Area,vc,2019-11-19,0,0,San Francisco,CA,USA,blockchain.capital,food & beverages
+44,5554,Lon Chow,Chicago,angel,2016-05-10,0,0,Chicago,IL,USA,angel.co/lonchow,food & beverages
+3,11941,Adam Ross,Milwaukee,angel,2015-07-15,0,0,Denver,CO,USA,angel.co/adam-ross-1,food & beverages
+29,10948,David Helgason,Bay Area,angel,2020-04-03,0,0,San Francisco,CA,USA,,food & beverages
+32,161,MPM Capital,Boston,vc,2020-08-10,0,0,Boston,MA,USA,mpmcapital.com,food & beverages
+39,17805,Darren Patterson,Sydney,angel,2013-12-16,0,0,Sydney,,AUS,,food & beverages
+42,7478,Right Side Capital Management,Bay Area,vc,2020-07-14,0,0,San Francisco,CA,USA,rightsidecapital.com,food & beverages
+46,1499,Great Hill Partners,Boston,vc,2020-04-28,0,0,Boston,MA,USA,greathillpartners.com,food & beverages
+49,9924,Chad Byers,New York,angel,2013-10-08,0,0,New York,NY,USA,angel.co/chad-byers,food & beverages
+1,6230,Allegro Venture Partners,Bay Area,vc,2018-04-25,0,0,San Francisco,CA,USA,allegrovc.com,food & beverages
+4,281,Hummer Winblad Venture Partners,Bay Area,vc,2018-12-31,0,0,San Francisco,CA,USA,humwin.com,food & beverages
+29,10614,Matt Monahan,New York,angel,2014-02-14,0,0,New York,NY,USA,angel.co/gomattymo,food & beverages
+34,11023,Michael Greve,Cape Town,angel,2012-03-01,0,0,Cape Town,,ZAF,,food & beverages
+39,2858,Seraph Group,Atlanta,vc,2018-09-18,0,0,Atlanta,GA,USA,seraphgroup.net,food & beverages
+40,7771,Konstantin Othmer,Los Altos Hills,angel,2015-03-19,0,0,Los Altos Hills,CA,USA,,food & beverages
+43,21147,Causeway Media Partners,Boston,vc,2020-09-16,0,0,Boston,MA,USA,causewaymp.com,food & beverages
+44,14255,InVenture,,vc,2020-06-26,0,0,Helsinki,,FIN,inventure.fi,food & beverages
+49,3178,New Venture Partners,New York,vc,2016-09-29,0,0,New Providence,NJ,USA,nvpllc.com,food & beverages
+7,1646,Hasso Plattner Ventures,Potsdam,vc,2018-08-21,0,0,Potsdam,,DEU,hp-ventures.com,food & beverages
+11,19589,RevTech Labs,Charlotte,accelerator,2019-12-03,0,0,Charlotte,NC,USA,revtechlabs.com,food & beverages
+14,4114,Actis,London,vc,2018-03-13,0,0,London,,GBR,act.is,food & beverages
+28,3,Nexus Venture Partners,Bay Area,vc,2020-09-11,217,129,Menlo Park,CA,USA,nexusvp.com,food & beverages
+30,11833,Jeffrey P. Parker,Boston,angel,2017-05-15,0,0,Boston,MA,USA,,food & beverages
+32,12211,Spring Singapore,Singapore,vc,2015-07-14,0,0,Singapore,,SGP,spring.gov.sg,food & beverages
+42,25740,Scale Investors,Melbourne,vc,2016-07-18,0,0,Melbourne,,AUS,scaleinvestors.com.au,food & beverages
+43,24090,BOM Capital,Tilburg,vc,2018-09-12,0,0,Tilburg,,NLD,bom.nl,food & beverages
+1,28167,FinTech innovation Lab (Dublin),Dublin,accelerator,2016-02-18,0,0,Dublin,,IRL,fintechinnovationlabdublin.ie,food & beverages
+13,7803,Daher Capital,Beirut Central District,vc,2020-02-05,0,0,Beirut Central District,,LBN,dahercapital.com,food & beverages
+14,10051,Mike Hirshland,Bay Area,angel,2015-06-16,0,0,San Francisco,CA,USA,angel.co/vcmike,food & beverages
+20,8445,Gordon Paddison,Los Angeles,angel,2015-10-27,0,0,Los Angeles,CA,USA,,food & beverages
+26,12704,Raine Ventures,Bay Area,vc,2020-08-26,0,0,San Francisco,CA,USA,raine.com,food & beverages
+31,9741,Alex Richardson,Boston,angel,2012-06-25,0,0,Boston,MA,USA,,food & beverages
+46,7694,Huron River Ventures,Detroit,vc,2018-01-09,0,0,Ann Arbor,MI,USA,huronrivervc.com,food & beverages
